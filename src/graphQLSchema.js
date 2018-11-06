@@ -15,7 +15,7 @@ import {
 	studentsMutations,
 	studentsQueries,
 	studentsTypeDef
-} from './courses/typeDefs';
+} from './students/typeDefs';
 
 import coursesResolvers from './courses/resolvers';
 import studentsResolvers from './students/resolvers';
