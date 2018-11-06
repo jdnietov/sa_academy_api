@@ -1,4 +1,4 @@
-export const StudentsTypeDef = `
+export const studentsTypeDef = `
 type Student {
     code: Int!
     name: String!
